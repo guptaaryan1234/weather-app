@@ -1,3 +1,3 @@
-# weather-app
+# weather-website
 https://guptaaryan1234.github.io/weather-app/
-App for getting weather information any location
+Website for getting weather information any location
